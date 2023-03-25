@@ -2,8 +2,6 @@
 # 💫 About Me:
 🎓 I'm a second-year CS Student<br>🌱 I'm currently learning SQL, .NET, & C# <br>🔭 I'm interested in ML, Cybersecurity and Databases<br><br>
 
-
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-rueda12) 
 
 # 💻 Tech Stack:
